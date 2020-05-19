@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Mart380_FinalProj2D",
+"productVersion": "1.0",
+"dataUrl": "WebGameFinal.data.unityweb",
+"wasmCodeUrl": "WebGameFinal.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGameFinal.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.12f1"
+}
